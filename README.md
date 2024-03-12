@@ -3,4 +3,4 @@
 - Selenium
 
 # Run
-- python3 buildRNG.py
+python3 buildRNG.py

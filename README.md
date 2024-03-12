@@ -1,6 +1,6 @@
-#Requirements
+# Requirements
 Python 3
 Selenium
 
-#Run
+# Run
 python3 buildRNG.py
